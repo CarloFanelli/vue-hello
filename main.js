@@ -7,6 +7,7 @@ const { createApp } = Vue
       return {
 
         message : 'ciao user',
+        mediaImg : 'https://picsum.photos/400'
 
     }
     }
